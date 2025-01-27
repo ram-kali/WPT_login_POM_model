@@ -1,0 +1,44 @@
+2025-01-27 16:40:55,055 - INFO - #Step Info: ***Start TestCase 1***
+2025-01-27 16:40:57,927 - INFO - Step Pass: Start 'WPT Poker' Game Application
+2025-01-27 16:40:57,927 - INFO - #Step Info: #Manage Popups
+2025-01-27 16:41:02,644 - INFO - Step Pass: Tap On: 'whileUsingThisApp'
+2025-01-27 16:41:04,526 - INFO - Step Pass: Tap On: 'allow_Button'
+2025-01-27 16:41:10,201 - INFO - Step Pass: Tap On: 'allow_Button'
+2025-01-27 16:41:20,640 - INFO - #Step Info: Wait- 'allow_Button' is not displayed. Wait Time: 10.
+2025-01-27 16:41:20,641 - INFO - Step Pass: Successfully managed all Permission popups in 'WPT Poker' Application
+2025-01-27 16:41:20,641 - INFO - #Step Info: #Login Flow with valid username and password
+2025-01-27 16:41:21,236 - INFO - Step Pass: Tap On: 'playNow_Button'
+2025-01-27 16:41:23,534 - INFO - Step Pass: Tap On: 'userName_TextBox'
+2025-01-27 16:41:24,437 - INFO - Step Pass: Type: Text 'ramkali'
+2025-01-27 16:41:27,292 - INFO - Step Pass: Tap On: 'password_TextBox'
+2025-01-27 16:41:27,706 - INFO - Step Pass: Type: Text 'Poker12'
+2025-01-27 16:41:29,511 - INFO - Step Pass: Tap On: 'login_Button'
+2025-01-27 16:41:34,785 - ERROR - Step Fail: Failed to Login as user: ramkali and password: Poker12
+2025-01-27 16:41:35,402 - INFO - Step Pass: Tap On: 'close_Button'
+2025-01-27 16:41:35,402 - INFO - #Step Info: ***Stop TestCase 1***
+2025-01-27 16:41:35,630 - INFO - Step Pass: Stop 'WPT Poker' Game Application
+2025-01-27 16:41:35,630 - INFO - #Step Info: ***Start TestCase 2***
+2025-01-27 16:41:38,639 - INFO - Step Pass: Start 'WPT Poker' Game Application
+2025-01-27 16:41:38,639 - INFO - #Step Info: #Manage Popups
+2025-01-27 16:41:44,283 - INFO - Step Pass: Tap On: 'whileUsingThisApp'
+2025-01-27 16:41:46,120 - INFO - Step Pass: Tap On: 'allow_Button'
+2025-01-27 16:41:52,979 - INFO - Step Pass: Tap On: 'allow_Button'
+2025-01-27 16:42:03,788 - INFO - #Step Info: Wait- 'allow_Button' is not displayed. Wait Time: 10.
+2025-01-27 16:42:03,789 - INFO - Step Pass: Successfully managed all Permission popups in 'WPT Poker' Application
+2025-01-27 16:42:03,789 - INFO - #Step Info: #Login Flow with valid username and password
+2025-01-27 16:42:04,394 - INFO - Step Pass: Tap On: 'playNow_Button'
+2025-01-27 16:42:06,730 - INFO - Step Pass: Tap On: 'userName_TextBox'
+2025-01-27 16:42:07,492 - INFO - Step Pass: Type: Text 'ramkali'
+2025-01-27 16:42:10,295 - INFO - Step Pass: Tap On: 'password_TextBox'
+2025-01-27 16:42:10,628 - INFO - Step Pass: Type: Text 'Poker123'
+2025-01-27 16:42:12,420 - INFO - Step Pass: Tap On: 'login_Button'
+2025-01-27 16:42:21,425 - INFO - Step Pass: Return to 'WPT Global' Game Application
+2025-01-27 16:42:24,348 - INFO - Step Pass: Tap On: 'okay_Button'
+2025-01-27 16:42:28,297 - INFO - Step Pass: Tap On: 'okay_Button'
+2025-01-27 16:42:37,718 - INFO - #Step Info: Wait- 'okay_Button' is not displayed. Wait Time: 5.
+2025-01-27 16:42:37,719 - INFO - #Step Info: Verify User Details
+2025-01-27 16:42:38,507 - INFO - Step Pass: Tap On: 'player_icon'
+2025-01-27 16:42:38,822 - INFO - Step Pass: Verification of Player name for user 'ramkali' is successful!
+2025-01-27 16:42:39,119 - INFO - Step Pass: Verification of Player Id for user 'ramkali' is successful!
+2025-01-27 16:42:39,119 - INFO - #Step Info: ***Stop TestCase 2***
+2025-01-27 16:42:39,339 - INFO - Step Pass: Stop 'WPT Poker' Game Application
